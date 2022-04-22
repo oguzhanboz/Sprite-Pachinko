@@ -1,4 +1,6 @@
 # Sprite-Pachinko
 My third microgame.
 
-https://play.unity.com/mg/other/third-game-webgl
+You can play my game via this link: https://play.unity.com/mg/other/third-game-webgl
+
+![](sp.png)
